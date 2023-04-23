@@ -1,0 +1,26 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/anilcanipsalali/anilcanipsalali/master/README.md",
+  "title": "anilcanipsalali",
+  "name": "Anılcan İpsalalı",
+  "ascii": "anilcanipsalali",
+  "social": {
+    "github": "anilcanipsalali",
+    "linkedin": "anilcanipsalali"
+  },
+  "email": "anilcan.ipsalali@gmail.com",
+  "ps1_hostname": "anilcanipsalali",
+  "ps1_username": "guest",
+  "repo": "https://github.com/anilcanipsalali",
+  "resume_url": "https://www.kariyer.net/ozgecmis/anilcanipsalali?o=c15o",
+  "colors": {
+    "dark": {
+      "background": "#333333",
+      "foreground": "#FFFFFF",
+      "yellow": "#A0C3FF",
+      "green": "#7BCFA9",
+      "gray": "#B3B3B3",
+      "white": "#CCCCCC",
+      "red": "#E57368"
+    }
+  }
+}
