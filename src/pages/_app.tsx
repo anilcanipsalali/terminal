@@ -1,7 +1,6 @@
 import React from 'react';
 import '../styles/global.css';
 import Head from 'next/head';
-import config from '../../config.json';
 
 const App = ({ Component, pageProps }) => {
   const inputRef = React.useRef<HTMLInputElement>(null);
